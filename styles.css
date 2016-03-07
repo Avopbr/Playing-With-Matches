@@ -1,9 +1,12 @@
+
 div {
-		width: 10em;
-		height: 10em;
-		background: #cc6943;
-		font-size: 19px;
+	width: 10em;
+	height: 10em;
+	background: black;
+	font-size: 19px;
+	border: 2px solid white;
 }
+
 body {
-	color: pink;
+	color: white;
 }
